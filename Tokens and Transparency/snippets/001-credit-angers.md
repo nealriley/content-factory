@@ -1,0 +1,1 @@
+Credits make buyers feel like the price is hidden: no upfront rate, arbitrary units, and shrinking value when vendors tweak tokenizers or models quietly. Support catches the blowback because customers can’t predict burn.
