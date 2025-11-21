@@ -1,0 +1,1 @@
+Know your monetizable unit—and remember it often diverges from the value the customer receives. Sell seats and buyers will minimize seat count when costs climb; collaboration shrinks if fewer people can participate, even when more users would improve outcomes.

@@ -1,0 +1,1 @@
+GPT-5.1 Pro feels like the smartest model in the room, but it is stuck in ChatGPT instead of your IDE. Until OpenAI exposes it where engineers work, the friction tax of copy/paste and manual context feeding will keep Gemini 3-style, repo-integrated agents as the daily drivers (per Matt Shumer's November 2025 review).

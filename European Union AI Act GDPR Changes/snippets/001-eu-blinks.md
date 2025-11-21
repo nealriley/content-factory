@@ -1,0 +1,1 @@
+After years of facing down Big Tech with tough rules, the EU is pulling back: under US and industry pressure, Brussels is stripping protections from the GDPR and relaxing or delaying AI rules to cut red tape and revive growth.

@@ -1,0 +1,1 @@
+Opaque credit pricing turns support into triage: buyers ask what a plan will really cost, then complain after surprise burn rates, leaving support to explain a made-up metric instead of product value.

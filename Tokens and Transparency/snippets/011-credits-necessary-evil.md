@@ -1,0 +1,1 @@
+Credits are a temporary guardrail because LLM runs still have real, spiky unit costs; as model costs decline and margins normalize, vendors can revert to clearer per-user or outcome pricing instead of rationing usage.

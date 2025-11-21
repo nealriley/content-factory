@@ -1,0 +1,1 @@
+Token pricing is about optimization: buyers can dial usage up or down to meet their own or their customers’ needs. In B2B, that lever also lets vendors tune margins by mixing costs. Providers win when customers can pick higher or lower “quality” services and swap as needed—like choosing a -mini model for lower quality but faster, cheaper runs.

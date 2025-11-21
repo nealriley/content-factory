@@ -1,0 +1,1 @@
+The European Commission’s proposal changes core GDPR elements to make it easier for companies to share anonymized and pseudonymized personal datasets and to let AI companies train models on personal data, so long as other GDPR requirements are met.

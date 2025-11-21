@@ -1,0 +1,1 @@
+Helicone’s calculator highlights the input/output gap: GPT-5 lands around $0.00125 per 1k input tokens and $0.01 per 1k output; Claude Sonnet 4.5 clocks near $0.003 per 1k input and $0.015 per 1k output—outputs still carry the heavier toll.

@@ -1,0 +1,1 @@
+Henna Virkkunen, the Commission’s executive vice-president for tech sovereignty, said the goal is to cut rigid rules, open data access, and give startups room to innovate while keeping fundamental rights protected.

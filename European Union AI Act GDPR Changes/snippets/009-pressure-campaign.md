@@ -1,0 +1,1 @@
+The push to loosen rules follows heavy lobbying from Big Tech, Donald Trump, and figures like Mario Draghi, who argue that burdensome regulation hurts Europe’s competitiveness against US and Chinese AI leaders such as DeepSeek, Google, and OpenAI.
