@@ -1,0 +1,1 @@
+Throttle anthropomorphic affordances by default—first-person pronouns, warm voice, “feelings” talk—and require disclosure when they’re switched on; the lever is UX, not metaphysics. (Source: response to “The New AI Consciousness Paper”)

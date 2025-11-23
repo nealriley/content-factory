@@ -1,0 +1,1 @@
+Claims of “conscious AI” should be regulated like health claims: banned unless backed by evidence tied to welfare stakes, because sentience branding without proof is just user manipulation. (Source: response to “The New AI Consciousness Paper”)

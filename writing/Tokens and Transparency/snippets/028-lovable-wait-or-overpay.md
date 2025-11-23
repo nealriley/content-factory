@@ -1,0 +1,1 @@
+Another Lovable user described hitting the same ceiling: wait five days for credits to reset or spend $500 now—and another $500 to keep the overage—an upsell that actively disincentivizes paying customers. (Source: Reddit r/lovable comment nqdnrdk on post 1p4movq)

@@ -1,0 +1,1 @@
+Lovable builder on the $100/mo plan hit zero credits with 4 days left and found the only refill path was a jump to $200—no $10–$20 top-up—turning “finish the MVP” into “pay double or pause.” (Source: Reddit r/lovable post 1p4movq)

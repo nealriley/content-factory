@@ -1,0 +1,1 @@
+We’ll likely treat identical AI substrates differently—“companion” personas get moral concern, “factory” personas get deleted—just as we love dogs and eat pigs despite similar brains. (Source: response to “The New AI Consciousness Paper”)

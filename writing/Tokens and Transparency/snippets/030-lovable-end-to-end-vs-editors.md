@@ -1,0 +1,1 @@
+One commenter defended Lovable as end-to-end (frontend, backend, hosting) while alternatives like Google AI Studio, Antigravity, or Cursor are just editors—you’d need extra services to ship—yet that bundle competes against their own aggressive pricing steps. (Source: Reddit r/lovable comment nqdfl4w on post 1p4movq)

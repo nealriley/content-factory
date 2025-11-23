@@ -1,0 +1,1 @@
+Humans have always over-assigned agency—Tamagotchis, stuffed animals, talking elevators—so “people think GPT is conscious” is a UX problem, not evidence of inner lights. (Source: response to “The New AI Consciousness Paper”)

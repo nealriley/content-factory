@@ -1,0 +1,1 @@
+Fund mechanistic interpretability to stop deceptive self-reports, not to divine “lights on”—it’s a robustness and honesty tool, not a consciousness meter. (Source: response to “The New AI Consciousness Paper”)

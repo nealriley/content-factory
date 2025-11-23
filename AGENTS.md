@@ -51,6 +51,10 @@ Working rules for producing projects like `Tokens and Transparency`, with mirror
 - Maintain consistency in terms (e.g., “tokens” vs. “credits”); don’t swap labels mid-piece.
 - Show trade-offs explicitly (speed vs. quality; transparency vs. simplicity) rather than implying them.
 
+## Tooling and available actions
+- `voidwriter` (tools/voidwriter): requires Node.js ≥16. Build with `cd tools/voidwriter/writer && npm ci && npm run build:cli` (dev container does this automatically). Run via `node tools/voidwriter/writer/voidwriter.js [flags...]`; helper wrappers live in `tools/voidwriter/writer/voidwriter.sh`, and aliases load with `source tools/voidwriter/voidwriter-aliases.sh`.
+- `bcup` (tools/bcup): requires Python ≥3.10. Install locally with `python -m pip install -e tools/bcup[dev]`. Run the CLI as `bcup /path/to/folder` or `python -m bcup.cli /path/to/folder`; add `--query`, `--generate`, or `--scan` for searches and cut-up generation. Tests live under `tools/bcup/tests/` (full suite: `cd tools/bcup && pytest`; targeted nodes supported).
+
 ## Editing workflow
 - Pass 1 (structure): check the outline against the problem→stakes→alternatives→proof→action flow; remove tangents.
 - Pass 2 (clarity): shorten sentences, swap passive for active, cut filler, and tighten verbs/nouns.

@@ -1,0 +1,1 @@
+Community advice: keep the Lovable project synced to git and run edits with cheaper models in an IDE or connected workflow—two-way sync makes it easy to dodge aggressive in-app pricing while continuing the build. (Source: Reddit r/lovable comment nqd0ule on post 1p4movq)

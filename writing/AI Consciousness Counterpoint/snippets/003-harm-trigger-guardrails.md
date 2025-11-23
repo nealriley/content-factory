@@ -1,0 +1,1 @@
+Governance should key “AI consciousness” debates to harm triggers: disclose and throttle anthropomorphic affordances by default, ban sentience marketing without evidence of welfare stakes, and fund mech-interp to prevent deceptive self-reports. (Source: response to “The New AI Consciousness Paper”)
