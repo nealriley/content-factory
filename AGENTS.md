@@ -3,6 +3,7 @@
 Working rules for producing projects like `Tokens and Transparency`, with mirrored `drafts/` and `snippets/` folders per project.
 
 ## Folder layout (per project)
+- Projects live in `writing/` at the repo root; create each project as `writing/<Project Name>/`.
 - Root folder name: short, readable title (e.g., `Tokens and Transparency`).
 - `drafts/`: long-form pieces and format-specific variants (article, landing, email, deck notes). Multiple drafts allowed; keep each in its own file.
 - `snippets/`: modular, stand-alone paragraph-level pieces sized to be reused or combined.
@@ -10,7 +11,7 @@ Working rules for producing projects like `Tokens and Transparency`, with mirror
 - File naming: `NNN-kebab-title.md` where `NNN` is zero-padded order of creation, not quality rank.
 
 ## New project setup
-- Create the project folder plus `drafts/`, `snippets/`, and `material/` subfolders immediately.
+- In `writing/`, create the project folder plus `drafts/`, `snippets/`, and `material/` subfolders immediately.
 - Add a `material/README.md` that lists live links to reference docs, data sources, and any verification notes; update it as sources change.
 - Capture a 3–5 bullet brief at the top of the first draft to anchor goal, audience, and promise.
 - Log any facts needing verification inside drafts with callouts (e.g., `[!warning] REVIEW:`) and resolve before publish.
