@@ -1,0 +1,1 @@
+Feature bloat often comes from reactive roadmap expansion; use the 80/20 lens to guard against overvaluing breadth at the cost of clarity and onboarding speed. Keep the product sharp by pruning features that do not serve the defended core slices.

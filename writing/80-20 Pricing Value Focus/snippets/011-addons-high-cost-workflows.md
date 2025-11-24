@@ -1,0 +1,1 @@
+Add-ons work best when a minority relies on a high-cost, high-value workflow; monetizing it separately prevents the broad base from subsidizing it. Layer add-ons atop a lean core to keep entry pricing fair.

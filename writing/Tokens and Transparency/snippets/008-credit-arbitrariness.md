@@ -1,1 +1,0 @@
-Credits are defined arbitrarily—one vendor maps a credit to a token, another to a thousand, another to “slow” usage with no benchmark—so buyers can’t make apples-to-apples comparisons or sanity-check value.

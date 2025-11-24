@@ -1,0 +1,1 @@
+The Pareto Principle points to concentrated impact: a small set of causes often drives a large share of outcomes, though the ratio may be 70/30, 90/10, or another skew. It is a heuristic, not a fixed law, useful for spotting power-law patterns rather than dictating exact splits.

@@ -1,0 +1,1 @@
+Credits hide the price of each action, so customers can’t forecast bills and hesitate to use the product; unpredictability alone is enough to stall adoption. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

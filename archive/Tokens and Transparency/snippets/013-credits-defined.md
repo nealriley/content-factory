@@ -1,0 +1,1 @@
+When you monetize the underlying function with credits instead of pure access, spell out which actions burn units; clear meter definitions are the only way to build trust and keep customer relationships steady. (VoidWriter)

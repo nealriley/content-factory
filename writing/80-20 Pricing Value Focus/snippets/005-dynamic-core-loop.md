@@ -1,0 +1,1 @@
+Run a quarterly 80/20 loop: regenerate clusters, validate willingness to pay with removal-framed interviews, repackage tiers around jobs-to-be-done, and prune low-usage features without anchor overlap. The vital few shift as markets move, so assign a Value Core Owner to own the loop and reporting.

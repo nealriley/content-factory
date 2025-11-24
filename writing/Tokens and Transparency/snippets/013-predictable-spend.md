@@ -1,1 +1,0 @@
-Token billing shines when buyers can forecast their own spend. In B2B, teams usually know roughly how much demand they’ll drive; if usage isn’t swinging wildly, per-token pricing lands close to true value-based billing.

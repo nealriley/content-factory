@@ -1,0 +1,1 @@
+An effective model looks like stacked buckets: a core bucket used by most users, with optional buckets representing specialized 20% slices layered on top. Users pick the buckets matching the outcomes they need.

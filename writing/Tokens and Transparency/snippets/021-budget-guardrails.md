@@ -1,1 +1,0 @@
-caps and budgets help teams stay on top of their usage, and the costs associated. These guardrails ensure that cost fluctuations arent a surprise, they are accounted for and predicted based on the types of activities that drive the user o of the tool.

@@ -1,0 +1,1 @@
+Credits are a temporary fix while LLM costs are high; as unit costs fall toward healthier margins, pricing will revert to transparent per-user or concrete meters, and rigid credit shops will churn customers. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

@@ -1,0 +1,24 @@
+Title: My beef with AI credit pricing
+Author: Elena Verna
+Source: https://www.elenaverna.com/p/i-hate-ai-credits-pricing
+Date: Nov 14, 2025
+
+With new technology comes new pricing models, but the one we’re all using right now is AI Credits. Using LLMs is expensive and each usage costs real money. Companies use credits to make sure that usage doesn’t spike out of control and bankrupt them, but credits create problems.
+
+Reason #1: Customer doesn’t know the price up front.
+You have no idea how much each action costs; lack of predictability deters customers and ties to fairness.
+
+Reason #2: Prices don’t feel fair.
+Perception of how many credits an action should cost differs from actual compute cost; customers learn in retrospect and feel taken advantage of.
+
+Reason #3: There’s no apples-to-apples comparison.
+Each company defines credits differently and doesn’t share definitions. Some map credits to tokens 1:1, some 1:10, some 1:1000, others have “slow” unlimited tiers. Credits become a made-up metric, so customers can’t compare value across vendors.
+
+Reason #4: Customer Support becomes impossible.
+Support teams get flooded by customers trying to forecast plan costs or complaining about usage value, which makes the role harder.
+
+Reason #5: Companies will exploit this confusion.
+Because credits are arbitrary, vendors can make credits cost more or charge more credits per action to increase revenue. Elena notes she hasn’t seen this at Lovable; they aim to make actions 20–30% cheaper by optimizing prompts and efficiency.
+
+Outlook.
+Credits are a necessary evil while LLM costs are high. As costs drop toward ~50% profitability, companies will revert to measurable, transparent models (per-user or concrete units). Vendors that stick rigidly to credits will lose; customers will churn due to price unpredictability and fake metrics.

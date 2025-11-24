@@ -1,0 +1,1 @@
+Every vendor defines “a credit” differently—some map 1:1 to tokens, others 1:1000, others hide behind “slow” unlimited tiers—so customers can’t compare offers or judge value. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

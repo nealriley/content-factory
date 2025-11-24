@@ -1,0 +1,1 @@
+When you are using metered billing, and find yourself monetizing the unerlying function of your app, rather than simply its access like a team based pricing strategy. Defining your terms and making it clear which action corresponds with this unit of measure is extremely important for building trust and maitaining a good customer relationship.

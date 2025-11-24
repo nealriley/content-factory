@@ -1,0 +1,1 @@
+Encourage high-engagement users to graduate into tiers bundling the features they already rely on, minimizing friction while aligning spend to realized value. This feels fair and drives expansion without coercion.

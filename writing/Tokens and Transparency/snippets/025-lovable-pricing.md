@@ -1,1 +1,0 @@
-Lovable user on the $100/mo tier hit zero credits with 4 days left and found the only refill option was upgrading to $200—not a small top-up—so they downgraded to free and started looking at Google AI Studio instead. The paywall ladder forces churn right when builders are finishing an MVP. (Source: Reddit r/lovable post 1p4movq)

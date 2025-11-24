@@ -1,0 +1,1 @@
+When credits mask true compute costs, every invoice feels unfair—buyers either overpay for simple actions or are shocked by expensive ones because value and price only meet in hindsight. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

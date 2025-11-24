@@ -1,0 +1,28 @@
+001: Feature breadth masquerades as value, but most accounts defend only a narrow slice of workflows; every low-utility feature adds cognitive surface, slows onboarding, and silently discounts outcome-per-dollar in the buyer’s mind.
+002: Find each segment’s true 20% by instrumenting outcomes (completion, time, downstream result), not just clicks; build normalized per-account usage vectors, cluster them, surface each cluster’s top 3–5 anchors, stress-test by removal, and weight by retention correlation.
+003: Price on the atomic value unit delivered by the anchor slice (executed workflow, processed dataset, validated deployment) instead of generic proxies, build tiers as outcome ladders (Core, Advanced Workflow, Governance/Scale), keep the base lean, and graduate minority, high-cost workflows to add-ons only when willingness to pay is proven while protecting anchors with quality commitments.
+004: Run the 80/20 discovery loop quarterly—instrument completion and outcome events, regenerate clusters, validate willingness to pay with removal-framed interviews, repackage tiers around jobs-to-be-done, prune low-usage features without anchor overlap, and assign a single Value Core Owner to own the loop and reporting.
+005: Anchor concentration (% of retained accounts where the top three features exceed ~60% of active time), core slice adoption lag (median days to first successful anchor bundle), price-to-core-value ratio (ACV per successful core workflow per year), bloat index (shipped features divided by those used by >15% of paying accounts in the last 60 days), and expansion efficiency (incremental ARR from new slice features per R&D spend, two-quarter trailing).
+006: The Pareto Principle (80/20 rule) says a large share of outcomes often comes from a small share of causes; the exact ratio shifts, but the key is concentrated impact.
+007: Vilfredo Pareto, an Italian economist, observed that a minority owned most land and wealth, highlighting a recurring skewed distribution that now bears his name.
+008: A common anecdote credits Pareto’s garden peas: a minority of pods produced most of the peas, a memorable illustration of uneven output from a small input set.
+009: Many 80/20-like phenomena map to Pareto or other power-law distributions—heavy tails where extreme values (top customers, top features, top issues) carry disproportionate weight.
+010: Joseph Juran applied Pareto’s insight to quality control, showing that most defects stem from a small set of causes and making it a staple tool in process improvement.
+011: Juran framed the pattern as the vital few versus the useful many: a small set of key causes drives most outcomes, while the long tail still matters in specific contexts.
+012: A minority of customers or products often delivers most revenue or profit, mirroring the 80/20 pattern of uneven inputs driving the bulk of outcomes.
+013: In productivity, the idea becomes “20% of tasks deliver 80% of results,” urging focus on high-leverage work instead of treating all tasks as equal.
+014: Software teams see the pattern when a few defects cause most failures or a few code paths consume most resources, so they target top crashers and hotspots first.
+015: Product analytics often show a small subset of features driving most interactions, with the rest forming a long tail of rare or niche usage.
+016: A minority of features usually creates most perceived value, satisfaction, and retention; these vital few features are the ones users would defend if removed and sit at the core of product-market fit.
+017: The long tail of useful many features can still matter for specific segments, advanced workflows, or differentiation, but they rarely justify the same investment as the core set.
+018: A small subset of capabilities usually drives willingness to pay and tier upgrades; pricing works best when those revenue-driving features are identified and packaged explicitly.
+019: A minority of customers often delivers the majority of revenue, aligning with tiering: broad tiers cover core value, while upper tiers add advanced or niche capabilities for that top slice.
+020: The 80/20 rule is a heuristic, not a fixed law; the split may be 70/30, 90/10, or another skew, and the useful point is the concentration, not the exact ratio.
+021: The Pareto Principle does not identify which 20% matters; you have to find it with data—usage analytics, revenue attribution, research, and experiments—because acting on assumed vital few can mislead strategy.
+022: The vital few shifts as markets, user needs, and strategy evolve; periodic reassessment prevents teams from locking onto yesterday’s priorities.
+023: Value, usage, and revenue are usually concentrated in a small set of features and customers, so serious product and pricing work starts by finding and understanding that concentrated core.
+024: The 80/20 power distribution applies to the value users get from your product: a small slice of capabilities delivers most of the perceived outcome.
+025: The Pareto rule is often misunderstood when defining which 20% of product value 80% of customers will find useful; you have to identify the specific slice, not assume a generic one.
+026: Vendors often default to a monolithic pricing model for the whole user base—sometimes by conscious simplicity, often because their platform cannot support interoperating models.
+027: The 80/20 rule applies inside cohorts: usage groups have their own 20% feature sets that may not overlap with other groups.
+028: Optimize pricing for those cohorts by either offering core plans that cover each area or layering add-ons on a core set of features to address unique needs.

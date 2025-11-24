@@ -1,0 +1,1 @@
+Do not treat all value clusters equally—merge the common ones into shared tiers and isolate uncommon clusters into premium structures. Pricing should mirror the distribution of value, not a flat list.

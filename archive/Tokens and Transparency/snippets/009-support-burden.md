@@ -1,0 +1,1 @@
+Credit confusion turns into a support tax: teams field endless tickets from customers trying to estimate costs or complaining that usage wasn’t worth it. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

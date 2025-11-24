@@ -1,1 +1,0 @@
-Blocked by the $200 step-up, the same Lovable user downgraded to free mid-build and started exploring Google AI Studio instead—a churn trigger created by a refill ladder. (Source: Reddit r/lovable post 1p4movq)

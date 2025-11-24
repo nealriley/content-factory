@@ -1,0 +1,1 @@
+High-value features are the defend-worthy ones users would fight to keep; their removal would immediately erode perceived value or trigger churn. They anchor product-market fit and should be protected first.

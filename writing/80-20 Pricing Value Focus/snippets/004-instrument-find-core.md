@@ -1,0 +1,1 @@
+Find each segment's true 20% by instrumenting outcomes—completion, time, downstream results—not just clicks. Build normalized per-account usage vectors, cluster them, surface each cluster's top anchors, and stress-test by removal to prove causality. Avoid acting on assumed vital few; validate with retention correlation.

@@ -1,0 +1,1 @@
+Most accounts pull value from a narrow slice of the product; every low-utility feature adds cognitive load, slows onboarding, and quietly discounts outcome-per-dollar. The goal is not breadth but protecting the high-value slice that actually converts and retains.

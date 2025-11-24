@@ -1,0 +1,1 @@
+Lovable treats credits as a cost to shrink, celebrating 20–30% reductions in per-action credits by tightening prompts and codifying workflows instead of squeezing customers. (Source: Elena Verna, “My beef with AI credit pricing,” Nov 2025)

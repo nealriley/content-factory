@@ -1,0 +1,1 @@
+Align feature value clusters with pricing so adoption, perceived value, and revenue growth all follow the same 80/20 dynamics. Concentrating investment where the value concentrates creates durable product-market fit.

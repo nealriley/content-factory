@@ -1,1 +1,0 @@
-Transparency fails when vendors swap models or tokenizers behind the scenes, when outputs vary widely (creative/ideation), or when deterministic orchestration steps hide inside one priced “action.” Some value belongs to outcome/seat pricing instead of raw tokens.

@@ -1,1 +1,0 @@
-You can blend models in one journey: start with token-based access capped per day or month, then shift paying users to seats. The mix aligns the monetizable unit to the behavior you want at each stage.

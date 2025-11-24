@@ -1,1 +1,0 @@
-There are reasons why you will want the transition between different plan states to be as smooth as possible. Often this will included not taking payment for a non free tier till the end of a monthly period so the remainder of the month feels as close to free as possible.

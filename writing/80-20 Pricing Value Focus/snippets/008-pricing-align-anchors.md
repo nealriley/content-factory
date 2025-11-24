@@ -1,0 +1,1 @@
+Price on the atomic value unit delivered by the anchor slice rather than on generic proxies. Build tiers as outcome ladders, keep the entry tier intentionally lean, and place defend-worthy anchors in paid tiers with quality commitments.

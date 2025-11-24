@@ -1,0 +1,1 @@
+Hybrid billing lands best with a base subscription that guarantees a revenue floor while tokens meter variable-heavy features; finance teams can forecast, and customers still see how usage drives cost.
